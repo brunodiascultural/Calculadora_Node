@@ -1,3 +1,4 @@
+const inquirer = require("inquirer")
 const interface = require('readline-sync');
 
 // Calculadora: Soma, Subtração, Divisão, Multiplicação, Sair.
